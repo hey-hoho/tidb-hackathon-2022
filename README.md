@@ -1,3 +1,5 @@
+【完整版本，可进入初赛评分】
+
 # TaaS API
 TiDB hackthon 2022 Project.
 
